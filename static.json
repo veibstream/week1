@@ -1,7 +1,8 @@
 {
   "headers": {
    "/*": {
-     "X-Author": "sunvolfix"
+     "X-Author": "sunvolfix",
+     "Access-Control-Allow-Origin": "*"
     }
   }  
 }
